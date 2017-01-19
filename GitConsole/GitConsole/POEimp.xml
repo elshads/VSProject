@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSC>
+  <User>
+    <Name>PK1</Name>
+  </User>
+  <SunSystemsContext>
+    <BusinessUnit>PK1</BusinessUnit>
+  </SunSystemsContext>
+  <Payload>
+    <PurchaseOrder>
+      <PurchaseTransactionType>PURCHASE</PurchaseTransactionType>
+      <SecondReference>SecRef30</SecondReference>
+      <SupplierCode>71001</SupplierCode>
+      <Comment>Comment</Comment>
+      <MiscellaneousDate1>01012017</MiscellaneousDate1>
+      <MiscellaneousDate2>01012017</MiscellaneousDate2>
+      <MiscellaneousDescription1>Descr50 Inp 1</MiscellaneousDescription1>
+      <MiscellaneousDescription2>M Descr50 2</MiscellaneousDescription2>
+      <MiscellaneousInput1>M Inp15 1</MiscellaneousInput1>
+      <MiscellaneousInput2>M Inp15 2</MiscellaneousInput2>
+      <MiscellaneousReference1>M Ref30 1</MiscellaneousReference1>
+      <MiscellaneousReference2>M Ref30 2</MiscellaneousReference2>
+      <PurchaseOrderLine>
+        <LocationId>IN-BERLIN</LocationId>
+        <ItemCode>GN6004</ItemCode>
+        <Description>Descr50</Description>
+        <UnitOfPurchase>EACH</UnitOfPurchase>
+        <CurrencyCode>USD</CurrencyCode>
+        <AccountCode>10000</AccountCode>
+        <AssetCode>ASSET1</AssetCode>
+        <TransactionPeriod>0012017</TransactionPeriod>
+        <OrderDate>17012017</OrderDate>
+        <PaymentTermsGroupCode>14T</PaymentTermsGroupCode>
+        <Buyer>B1</Buyer>
+        <PurchaseRequisitionDate>01012017</PurchaseRequisitionDate>
+        <PurchaseRequisitionDetails>Descr50</PurchaseRequisitionDetails>
+        <PurchaseRequisitionEmployee>S11000</PurchaseRequisitionEmployee>
+        <PurchaseRequisitionTransRef></PurchaseRequisitionTransRef>
+        <MiscellaneousDescription1>Descr50 Inp 1</MiscellaneousDescription1>
+        <MiscellaneousDescription2>M Descr50 2</MiscellaneousDescription2>
+        <MiscellaneousReference1>M Ref30 1</MiscellaneousReference1>
+        <MiscellaneousReference2>M Ref30 2</MiscellaneousReference2>
+        <MiscellaneousInput1>M Inp15 1</MiscellaneousInput1>
+        <MiscellaneousInput2>M Inp15 2</MiscellaneousInput2>
+        <MiscellaneousDate1>01012017</MiscellaneousDate1>
+        <MiscellaneousDate2>01012017</MiscellaneousDate2>
+        <AnalysisQuantity>
+          <Analysis1>
+            <VPolCatAnalysis_AnlCatId>13</VPolCatAnalysis_AnlCatId>
+            <VPolCatAnalysis_AnlCode>#</VPolCatAnalysis_AnlCode>
+          </Analysis1>
+          <Analysis2>
+            <VPolCatAnalysis_AnlCatId>12</VPolCatAnalysis_AnlCatId>
+            <VPolCatAnalysis_AnlCode>#</VPolCatAnalysis_AnlCode>
+          </Analysis2>
+          <Analysis3>
+            <VPolCatAnalysis_AnlCatId>14</VPolCatAnalysis_AnlCatId>
+            <VPolCatAnalysis_AnlCode>#</VPolCatAnalysis_AnlCode>
+          </Analysis3>
+          <Analysis4>
+            <VPolCatAnalysis_AnlCatId>16</VPolCatAnalysis_AnlCatId>
+            <VPolCatAnalysis_AnlCode>#</VPolCatAnalysis_AnlCode>
+          </Analysis4>
+          <Analysis10>
+            <VPolCatAnalysis_AnlCatId>11</VPolCatAnalysis_AnlCatId>
+            <VPolCatAnalysis_AnlCode>#</VPolCatAnalysis_AnlCode>
+          </Analysis10>
+        </AnalysisQuantity>
+        <VLAB1>
+          <Base>
+            <VPolVlabEntry_Val>11.034</VPolVlabEntry_Val>
+            <VPolVlabEntry_VlabId>1</VPolVlabEntry_VlabId>
+          </Base>
+        </VLAB1>
+        <VLAB2>
+          <Trans>
+            <VPolVlabEntry_Val>22</VPolVlabEntry_Val>
+            <VPolVlabEntry_VlabId>2</VPolVlabEntry_VlabId>
+          </Trans>
+        </VLAB2>
+        <VLAB3>
+          <Trans>
+            <VPolVlabEntry_Val>242.748</VPolVlabEntry_Val>
+            <VPolVlabEntry_VlabId>3</VPolVlabEntry_VlabId>
+          </Trans>
+        </VLAB3>
+        <VLAB12>
+          <Trans>
+            <VPolVlabEntry_Val>4444</VPolVlabEntry_Val>
+            <VPolVlabEntry_VlabId>12</VPolVlabEntry_VlabId>
+          </Trans>
+        </VLAB12>
+      </PurchaseOrderLine>
+    </PurchaseOrder>
+  </Payload>
+  
+</SSC>

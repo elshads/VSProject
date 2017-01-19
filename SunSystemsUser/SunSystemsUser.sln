@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SunSystemsUser", "SunSystemsUser\SunSystemsUser.rptproj", "{5542A804-EBA7-412A-9E5D-586E2D21C24C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5542A804-EBA7-412A-9E5D-586E2D21C24C}.Debug|Default.ActiveCfg = Debug
+		{5542A804-EBA7-412A-9E5D-586E2D21C24C}.Debug|Default.Build.0 = Debug
+		{5542A804-EBA7-412A-9E5D-586E2D21C24C}.Debug|Default.Deploy.0 = Debug
+		{5542A804-EBA7-412A-9E5D-586E2D21C24C}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{5542A804-EBA7-412A-9E5D-586E2D21C24C}.DebugLocal|Default.Build.0 = DebugLocal
+		{5542A804-EBA7-412A-9E5D-586E2D21C24C}.Release|Default.ActiveCfg = Release
+		{5542A804-EBA7-412A-9E5D-586E2D21C24C}.Release|Default.Build.0 = Release
+		{5542A804-EBA7-412A-9E5D-586E2D21C24C}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
